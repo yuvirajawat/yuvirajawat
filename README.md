@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on Real world projects with lot of learning potential.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/yuvrajsinghrajawat
 
- SKILLS   
+ SKILLS:  
   Programming experience with C/C++, Java with Object-Oriented Design.   
   Solid Understanding of Software Development methodologies(Agile and SDLC) and distributed systems.   
   Innovative with Web Technologies (HTML5, CSS, JavaScript, Bootstrap, MaterialUi and MySQL) to build high performance websites.   
