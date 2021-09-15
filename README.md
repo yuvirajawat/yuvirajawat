@@ -4,15 +4,9 @@
 - 💞️ I’m looking to collaborate on Real world projects with rich learning opportunities.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/yuvrajsinghrajawat
 
- SKILLS:  
-  Programming experience with C/C++, Java with Object-Oriented Design.   
-  Solid Understanding of Software Development methodologies(Agile and SDLC) and distributed systems.   
-  Innovative with Web Technologies (HTML5, CSS, JavaScript, Bootstrap, MaterialUi and MySQL) to build high performance websites.   
-  Experienced in Cloud application deployment(GCP/Firebase) and   SEO.    
-  Passion to solve problems and to deliver high quality software .    
-  Self-directed leadership ability and ability to work eﬃciently in  a fast paced environment.    
-  Good communication skills.
-  Strong Computer science Fundamentals Data Structures, Algorithms and Ralational Databases.
+I am a Software Engineer working on android with Kotlin to develop scalable and production ready android applications. I am Experienced with Android UI Design, XML, Android app lifecycle and architecture components along with Espresso and Firebase. 
+I have worked around- frontend technologies like HTML, CSS , JavaScript, SEO ,Firebase for responsive static websites, IoT for robotics and cyber security.
+
 
 <!---
 yuvirajawat/yuvirajawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
