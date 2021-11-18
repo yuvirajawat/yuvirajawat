@@ -4,10 +4,6 @@
 - 💞️ I’m looking to collaborate on Real world projects with rich learning opportunities.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/yuvrajsinghrajawat
 
-I am a Software Engineer working on android with Java to develop scalable and production ready android applications. 
-I am Experienced with Android UI Design, XML, Android app lifecycle and architecture components along with SQLite, Firebase and Firebase Analytics. 
-I have worked around IoT for robotics and cyber security.
-
 
 <!---
 yuvirajawat/yuvirajawat is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
