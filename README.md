@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Yuvraj Singh Rajawat an university graduate(2021)- 8.79 CGPA(Computer Science and Engineering, Visvesvaraya Technological University)
 - 👀 I’m interested in Advanced scalable software development projects. Looking to work as SDE/Software Engineer/Android Engineer
-- 🌱 I’m currently learning Advanced android app development.
+- 🌱 I’m currently learning full stack web development.
 - 💞️ I’m looking to collaborate on Real world projects with rich learning opportunities.
 - 📫 How to reach me: LinkedIn: https://www.linkedin.com/in/yuvrajsinghrajawat
+
+https://i.pinimg.com/originals/b5/bb/80/b5bb80994bc3ecdcd5b989250e6b7746.png
 
 I am a Software Engineer working on android with Java to develop scalable and production ready android applications. I am Experienced with Android UI Design, XML, Android app lifecycle and architecture components along with SQLite, Firebase and Firebase Analytics. 
 I have worked around IoT for robotics and cyber security.
